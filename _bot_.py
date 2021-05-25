@@ -17,7 +17,7 @@ from discord.utils import get
 
 
 
-TOKEN = os.environ["DISCORD_TOKEN"]
+TOKEN = $TOKEN
 
 bot = commands.Bot(command_prefix=['mr ', 'Mr ', 'mr', 'Mr'])
 client = discord.Client()
