@@ -9,7 +9,6 @@ from PIL import Image, ImageDraw, ImageFont
 from gtts import gTTS
 from discord import File
 from datetime import datetime
-import pymysql.connector
 from discord.ext import commands
 from discord.utils import get
 
